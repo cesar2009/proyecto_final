@@ -10,7 +10,7 @@ ctk.set_appearance_mode("dark")
 
 app = ctk.CTk()
 app.geometry("1000x700")
-app.title("Analizador Pokémon - TU NOMBRE")
+app.title("Analizador Pokémon - Cesar Ketchup")
 
 titulo = ctk.CTkLabel(
     app,
@@ -73,7 +73,7 @@ def acerca():
         """
 Analizador de datos Pokémon
 
-Programador: TU NOMBRE
+Programador: Cesar Alcocer
 
 Librerías:
 - pandas
